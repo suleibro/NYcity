@@ -1,1 +1,2 @@
-Brox is found in NY City.
+Brox is found in NY City. 
+Population of NY is 10,000,000.
